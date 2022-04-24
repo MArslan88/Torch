@@ -3,7 +3,7 @@
 ## Features
 
 - Light ON.
-- Light ON.
+- Light OFF.
 
 
 ## ScreenShots:
